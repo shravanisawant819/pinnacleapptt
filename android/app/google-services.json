@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730249119733",
+    "project_id": "pinnacleapptt",
+    "storage_bucket": "pinnacleapptt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730249119733:android:8fb40c22879d3b1816c2bc",
+        "android_client_info": {
+          "package_name": "com.example.pinnacleapptt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBML926Axuq6mQzbacxFppWrDv7jizmrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
